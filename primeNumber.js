@@ -1,3 +1,4 @@
+
 let num = 12;
 let count = 0;
 	for(let i=2; i<=num**(1/2); i++){
@@ -7,7 +8,6 @@ let count = 0;
 		}
 	if(count==0){
 		console.log(num, "is a prime number");
-	}
         else{
-		console.log(num, "is not a prime number");
+		console.log(number, "is not a prime number");
   }
